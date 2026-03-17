@@ -1,2 +1,2 @@
 # Netflix-Recommendation-Analysis
-Performed data analysis using Python (pandas, matplotlib) in Jupyter Notebook
+Analyzed Netflix data using Python and built an interactive dashboard in Microsoft Power BI to uncover trends in content, genres, and popularity.
