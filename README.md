@@ -1,5 +1,4 @@
 # Netflix-Recommendation-Analysis-and-Visualization
-<h1>Netflix Data Analysis & Visualization</h1>
  <h1>Overview</h1>
 
 This project performs data analysis on a Netflix dataset using Python in Jupyter Notebook and presents insights through an interactive dashboard built in Microsoft Power BI. It focuses on understanding trends in content type, genres, release years, and popularity.
