@@ -21,6 +21,9 @@ Jupyter Notebook
 
 Power BI
 
+<img width="1163" height="612" alt="Screenshot 2026-03-18 211746" src="https://github.com/user-attachments/assets/af60840a-bb2b-4a85-9bb6-153bb7733b2b" />
+
+
  <h1>Dashboard Features</h1>
 
 Slicers (Genre, Year, Type)
